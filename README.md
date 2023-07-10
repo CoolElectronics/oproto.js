@@ -1,3 +1,3 @@
-# oneko.js
+# oproto.js
 
-A hacky script I wrote to put a cat on my site.
+sprites from oneshot of course
